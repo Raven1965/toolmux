@@ -6,7 +6,6 @@ clear
 cp scifi.mp3 /sdcard
 mpv /sdcard/scifi.mp3
 clear
-cd files
 bash banner2.sh
 printf "NUMARA SEÇ VE İNDİR"
 echo    
